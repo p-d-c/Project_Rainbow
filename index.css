@@ -1,0 +1,71 @@
+html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+#red {
+  float: left;
+  background: red;
+  width: 100px;
+  height: 100%;
+}
+
+#orange {
+  float: left;
+  background: orange;
+  width: 100px;
+  height: 100%;
+}
+
+#yellow{
+  float: left;
+  background: yellow;
+  width: 100px;
+  height: 100%;
+}
+
+#green {
+  float: left;
+  background: green;
+  width: 100px;
+  height: 100%;
+}
+
+#blue {
+  float: left;
+  background: blue;
+  width: 100px;
+  height: 100%;
+}
+
+#indigo {
+  float: left;
+  background: indigo;
+  width: 100px;
+  height: 100%;
+}
+
+#violet {
+  float: left;
+  background: violet;
+  width: 100px;
+  height: 100%;
+}
+
+#snap {
+  color: black;
+  position: absolute;
+  z-index: 10;
+}
+
+button {
+  color: black;
+  position: absolute;
+  z-index: 10;
+}
